@@ -15,6 +15,7 @@ while True:
     if opcion == 'g':
         break
 
+    #Esta parte del codigo son las operaciones de Suma, Multiplicacion y Division.
     if opcion in ('a'):
         print("\nEscoja la operacion: ")
         print("1. Suma de 'n' números")
