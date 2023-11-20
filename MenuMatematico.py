@@ -96,6 +96,7 @@ while True:
         print("\nEl promedio de los valores ingresados es: ", promedio, "\n")
 
     
+ 
     if opcion in ('f'):
         n = int(input("Ingrese la cantidad de números: "))
     
