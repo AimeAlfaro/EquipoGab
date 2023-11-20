@@ -2,6 +2,7 @@
 print ("******************************  MATEMATICAS  ***********************************")
 print ("A continuacion te mostramos algunas opciones matematicas: ")
 
+#Se crea el menu para seleccionar lo que se desea realizar
 while True:
     print ("a - Operaciones matematicas")
     print ("b - Factorial")
