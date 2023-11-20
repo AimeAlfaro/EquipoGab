@@ -49,7 +49,7 @@ while True:
                 resultado = num1 / num2
                 print(f"La división de {num1} entre {num2} es: {resultado}\n")
 
-
+#Factorizar un número indicado por el teclado.
     if opcion in ('b'):
         n = int(input("Ingresa el numero a factorizar: "))
         def factorial(n):
